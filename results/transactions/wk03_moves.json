@@ -1,0 +1,556 @@
+[
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Mouhamed Gueye"
+    ],
+    "drops_names": [
+      "Khris Middleton"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ben Sheppard"
+    ],
+    "drops_names": [
+      "Isaiah Collier"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Andre Drummond"
+    ],
+    "drops_names": [
+      "Reed Sheppard"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jaylen Wells"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Gary Trent"
+    ],
+    "drops_names": [
+      "Bogdan Bogdanovi\u0107"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Trendon Watford"
+    ],
+    "drops_names": [
+      "Bilal Coulibaly"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Naji Marshall"
+    ],
+    "drops_names": [
+      "D'Angelo Russell"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Bogdan Bogdanovi\u0107"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Nikola Jovi\u0107"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ryan Dunn"
+    ],
+    "drops_names": [
+      "Collin Gillespie"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Nikola Jovi\u0107"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Kris Dunn"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Moussa Diabat\u00e9"
+    ],
+    "drops_names": [
+      "Luguentz Dort"
+    ],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Daniel Gafford"
+    ],
+    "drops_names": [
+      "Sam Hauser"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Kris Dunn"
+    ],
+    "drops_names": [
+      "Taylor Hendricks"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Taylor Hendricks"
+    ],
+    "drops_names": [
+      "Kris Dunn"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Kyle Filipowski"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Walker Kessler"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Derik Queen"
+    ],
+    "drops_names": [
+      "Bronny James"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jusuf Nurki\u0107"
+    ],
+    "drops_names": [
+      "John Collins"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marcus Smart"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      11
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jarace Walker"
+    ],
+    "drops_names": [
+      "Moussa Diabat\u00e9"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Isaiah Jackson"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Rui Hachimura"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Kris Dunn"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jared McCain"
+    ],
+    "drops_names": [
+      "Ayo Dosunmu"
+    ],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Bronny James"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Quinten Post"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Jusuf Nurki\u0107"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Jarred Vanderbilt"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Marcus Smart"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Moussa Diabat\u00e9"
+    ],
+    "drops_names": [
+      "Dalton Knecht"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Dalton Knecht"
+    ],
+    "drops_names": [
+      "Quenton Jackson"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jarred Vanderbilt"
+    ],
+    "drops_names": [
+      "Miles McBride"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Miles McBride"
+    ],
+    "drops_names": [
+      "Duncan Robinson"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marcus Smart"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Aaron Wiggins"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Josh Minott"
+    ],
+    "drops_names": [
+      "Davion Mitchell"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Davion Mitchell"
+    ],
+    "drops_names": [
+      "Tre Mann"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jusuf Nurki\u0107"
+    ],
+    "drops_names": [
+      "Steven Adams"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Max Christie"
+    ],
+    "drops_names": [
+      "Julian Champagnie"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "trade",
+    "adds_names": [
+      "Jaren Jackson",
+      "Julian Champagnie",
+      "Donovan Clingan",
+      "VJ Edgecombe"
+    ],
+    "drops_names": [
+      "Jaren Jackson",
+      "Julian Champagnie",
+      "Donovan Clingan",
+      "VJ Edgecombe"
+    ],
+    "roster_ids": [
+      5,
+      8
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Duncan Robinson"
+    ],
+    "drops_names": [
+      "Harrison Barnes"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Isaiah Joe"
+    ],
+    "drops_names": [
+      "Brandon Williams"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Ryan Dunn"
+    ],
+    "roster_ids": [
+      5
+    ]
+  }
+]

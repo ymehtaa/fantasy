@@ -1,0 +1,152 @@
+[
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Keon Ellis"
+    ],
+    "drops_names": [
+      "Keldon Johnson"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Keldon Johnson"
+    ],
+    "drops_names": [
+      "Harrison Barnes"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Paul Reed"
+    ],
+    "drops_names": [
+      "DaRon Holmes"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Naji Marshall"
+    ],
+    "drops_names": [
+      "Zeke Nnaji"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Day'Ron Sharpe"
+    ],
+    "drops_names": [
+      "Cason Wallace"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Cam Spencer"
+    ],
+    "drops_names": [
+      "Jake LaRavia"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Brice Sensabaugh"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Dillon Brooks"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Zeke Nnaji"
+    ],
+    "drops_names": [
+      "Luke Kornet"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Cason Wallace"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Collin Murray-Boyles"
+    ],
+    "drops_names": [
+      "Ayo Dosunmu"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jake LaRavia"
+    ],
+    "drops_names": [
+      "Day'Ron Sharpe"
+    ],
+    "roster_ids": [
+      5
+    ]
+  }
+]

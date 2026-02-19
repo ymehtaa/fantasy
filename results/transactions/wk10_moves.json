@@ -1,0 +1,180 @@
+[
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marcus Smart"
+    ],
+    "drops_names": [
+      "Tyler Kolek"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Moussa Diabat\u00e9"
+    ],
+    "drops_names": [
+      "Peyton Watson"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Jamal Shead"
+    ],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Keon Ellis"
+    ],
+    "drops_names": [
+      "Tre Jones"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Bilal Coulibaly"
+    ],
+    "drops_names": [
+      "Isaiah Collier"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Jaden Ivey"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Peyton Watson"
+    ],
+    "drops_names": [
+      "Cameron Johnson"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Tyler Kolek"
+    ],
+    "drops_names": [
+      "Marvin Bagley"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jared McCain"
+    ],
+    "drops_names": [
+      "Tristan Vukcevic"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Isaiah Collier"
+    ],
+    "drops_names": [
+      "Julian Champagnie"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Mitchell Robinson"
+    ],
+    "drops_names": [
+      "Bilal Coulibaly"
+    ],
+    "roster_ids": [
+      9
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "John Collins"
+    ],
+    "drops_names": [
+      "Mitchell Robinson"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Tristan Vukcevic"
+    ],
+    "drops_names": [
+      "Spencer Jones"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Sandro Mamukelashvili"
+    ],
+    "drops_names": [
+      "Nique Clifford"
+    ],
+    "roster_ids": [
+      3
+    ]
+  }
+]

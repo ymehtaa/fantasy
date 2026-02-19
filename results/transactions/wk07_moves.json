@@ -1,0 +1,259 @@
+[
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ryan Kalkbrenner"
+    ],
+    "drops_names": [
+      "Naji Marshall"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Cason Wallace"
+    ],
+    "drops_names": [
+      "Jonas Valan\u010di\u016bnas"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Tre Jones"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Robert Williams"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Jayson Tatum"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Jordan Walsh"
+    ],
+    "drops_names": [
+      "Josh Minott"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Noah Clowney"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Anfernee Simons"
+    ],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Maxime Raynaud"
+    ],
+    "drops_names": [
+      "Jordan Poole"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Pat Spencer"
+    ],
+    "drops_names": [
+      "Cason Wallace"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Naji Marshall"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Maxime Raynaud"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Maxime Raynaud"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Josh Minott"
+    ],
+    "drops_names": [
+      "Julian Champagnie"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ace Bailey"
+    ],
+    "drops_names": [
+      "Bryce McGowens"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marvin Bagley"
+    ],
+    "drops_names": [
+      "Craig Porter"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Ryan Nembhard"
+    ],
+    "drops_names": [
+      "T.J. McConnell"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Craig Porter"
+    ],
+    "drops_names": [
+      "Will Richard"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "T.J. McConnell"
+    ],
+    "drops_names": [
+      "Jaylen Wells"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Royce O'Neale"
+    ],
+    "drops_names": [
+      "Yves Missi"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jaylon Tyson"
+    ],
+    "drops_names": [
+      "Moussa Diabat\u00e9"
+    ],
+    "roster_ids": [
+      7
+    ]
+  }
+]

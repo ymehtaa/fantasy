@@ -1,0 +1,381 @@
+[
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Ousmane Dieng"
+    ],
+    "drops_names": [
+      "Brandon Williams"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Brandon Williams"
+    ],
+    "drops_names": [
+      "Julian Champagnie"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Brice Sensabaugh"
+    ],
+    "drops_names": [
+      "Taylor Hendricks"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jaxson Hayes"
+    ],
+    "drops_names": [
+      "Jalen Green"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Kenrich Williams"
+    ],
+    "drops_names": [
+      "De'Andre Hunter"
+    ],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Isaiah Joe"
+    ],
+    "drops_names": [
+      "Anfernee Simons"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Ajay Mitchell"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Khris Middleton"
+    ],
+    "drops_names": [
+      "Sandro Mamukelashvili"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marcus Smart"
+    ],
+    "drops_names": [
+      "Ryan Kalkbrenner"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Kasparas Jaku\u010dionis"
+    ],
+    "drops_names": [
+      "Herbert Jones"
+    ],
+    "roster_ids": [
+      11
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ryan Kalkbrenner"
+    ],
+    "drops_names": [
+      "Marvin Bagley"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Cason Wallace"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Devin Carter"
+    ],
+    "drops_names": [
+      "Jordan Goodwin"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Paul Reed"
+    ],
+    "drops_names": [
+      "Jake LaRavia"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "trade",
+    "adds_names": [
+      "Russell Westbrook",
+      "Jay Huff",
+      "Maxime Raynaud"
+    ],
+    "drops_names": [
+      "Russell Westbrook",
+      "Jay Huff",
+      "Maxime Raynaud"
+    ],
+    "roster_ids": [
+      2,
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Taylor Hendricks"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Bilal Coulibaly"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jake LaRavia"
+    ],
+    "drops_names": [
+      "Nique Clifford"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Nique Clifford"
+    ],
+    "drops_names": [
+      "Guerschon Yabusele"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jordan Goodwin"
+    ],
+    "drops_names": [
+      "GG Jackson"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jay Huff"
+    ],
+    "drops_names": [
+      "Collin Murray-Boyles"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Pat Spencer"
+    ],
+    "drops_names": [
+      "Day'Ron Sharpe"
+    ],
+    "roster_ids": [
+      11
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marvin Bagley"
+    ],
+    "drops_names": [
+      "Cam Spencer"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Maxime Raynaud"
+    ],
+    "drops_names": [
+      "Nique Clifford"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Julian Champagnie"
+    ],
+    "drops_names": [
+      "Pelle Larsson"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Noah Clowney"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Nique Clifford"
+    ],
+    "drops_names": [
+      "Jalen Pickett"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Anfernee Simons"
+    ],
+    "drops_names": [
+      "Jaylin Williams"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "trade",
+    "adds_names": [
+      "Dejounte Murray",
+      "Ty Jerome",
+      "Jalen Smith",
+      "Moussa Diabat\u00e9"
+    ],
+    "drops_names": [
+      "Dejounte Murray",
+      "Ty Jerome",
+      "Jalen Smith",
+      "Moussa Diabat\u00e9"
+    ],
+    "roster_ids": [
+      3,
+      5
+    ]
+  }
+]

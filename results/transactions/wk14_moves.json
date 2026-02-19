@@ -1,0 +1,277 @@
+[
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "De'Anthony Melton"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jalen Pickett"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ace Bailey"
+    ],
+    "drops_names": [
+      "Jeremiah Fears"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Jock Landale"
+    ],
+    "drops_names": [
+      "Gradey Dick"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Jonas Valan\u010di\u016bnas"
+    ],
+    "drops_names": [
+      "Ayo Dosunmu"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ayo Dosunmu"
+    ],
+    "drops_names": [
+      "Jakob Poeltl"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Cam Thomas"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Bilal Coulibaly"
+    ],
+    "drops_names": [
+      "Anfernee Simons"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ryan Kalkbrenner"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Davion Mitchell"
+    ],
+    "drops_names": [
+      "Brandon Williams"
+    ],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Sandro Mamukelashvili"
+    ],
+    "drops_names": [
+      "Jamal Shead"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Julian Champagnie"
+    ],
+    "drops_names": [
+      "Tim Hardaway"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Marcus Smart"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Bub Carrington"
+    ],
+    "drops_names": [
+      "Quentin Grimes"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jaylon Tyson"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Day'Ron Sharpe"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jamal Shead"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "failed",
+    "type": "waiver",
+    "adds_names": [
+      "Tari Eason"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Dwight Powell"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "failed",
+    "type": "waiver",
+    "adds_names": [
+      "Tari Eason"
+    ],
+    "drops_names": [
+      "Reed Sheppard"
+    ],
+    "roster_ids": [
+      4
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Tari Eason"
+    ],
+    "drops_names": [
+      "Precious Achiuwa"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Aaron Wiggins"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Sandro Mamukelashvili"
+    ],
+    "roster_ids": [
+      3
+    ]
+  }
+]

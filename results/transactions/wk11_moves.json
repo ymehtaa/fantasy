@@ -1,0 +1,211 @@
+[
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Tari Eason"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Brandon Williams"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Luke Kornet"
+    ],
+    "drops_names": [
+      "Brook Lopez"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marcus Smart"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Scoot Henderson"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Brice Sensabaugh"
+    ],
+    "drops_names": [
+      "Pat Spencer"
+    ],
+    "roster_ids": [
+      2
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Day'Ron Sharpe"
+    ],
+    "drops_names": [
+      "Jay Huff"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "DaRon Holmes"
+    ],
+    "drops_names": [
+      "Jonas Valan\u010di\u016bnas"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Julian Champagnie"
+    ],
+    "drops_names": [
+      "Cam Spencer"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jalen Smith"
+    ],
+    "drops_names": [
+      "Ryan Nembhard"
+    ],
+    "roster_ids": [
+      5
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Tre Jones"
+    ],
+    "drops_names": [
+      "Jock Landale"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Brandon Williams"
+    ],
+    "drops_names": [
+      "Keon Ellis"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Ayo Dosunmu"
+    ],
+    "drops_names": [
+      "Jared McCain"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jonas Valan\u010di\u016bnas"
+    ],
+    "drops_names": [
+      "Bub Carrington"
+    ],
+    "roster_ids": [
+      6
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Peyton Watson"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      12
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Lonzo Ball"
+    ],
+    "roster_ids": [
+      12
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Brook Lopez"
+    ],
+    "drops_names": [
+      "Marcus Smart"
+    ],
+    "roster_ids": [
+      3
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "status": "complete",
+    "type": "waiver",
+    "adds_names": [
+      "Jaylon Tyson"
+    ],
+    "drops_names": [
+      "Jeremiah Fears"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Terance Mann"
+    ],
+    "drops_names": [
+      "Ryan Nembhard"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Marcus Smart"
+    ],
+    "drops_names": [
+      "Vince Williams"
+    ],
+    "roster_ids": [
+      3
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jock Landale"
+    ],
+    "drops_names": [
+      "Luke Kornet"
+    ],
+    "roster_ids": [
+      1
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jamal Shead"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      10
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jordan Poole"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      9
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Jayson Tatum"
+    ],
+    "drops_names": [
+      "Jaylon Tyson"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Julian Champagnie"
+    ],
+    "drops_names": [],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [],
+    "drops_names": [
+      "Ryan Kalkbrenner"
+    ],
+    "roster_ids": [
+      7
+    ]
+  },
+  {
+    "status": "complete",
+    "type": "free_agent",
+    "adds_names": [
+      "Tristan da Silva"
+    ],
+    "drops_names": [
+      "Egor D\u00ebmin"
+    ],
+    "roster_ids": [
+      3
+    ]
+  }
+]
