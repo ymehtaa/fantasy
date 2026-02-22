@@ -1,0 +1,13 @@
+# Python bytecode (the one you asked for)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files (very common in your 'ls' output)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment/Tool specific
+.claude/
+lsal.txt
