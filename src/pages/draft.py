@@ -241,9 +241,9 @@ def color_roster(val):
 
 st.dataframe(
     mgr_picks.style
-        .applymap(color_position, subset=["Position"])
-        .applymap(color_injury,   subset=["Injury Status"])
-        .applymap(color_roster,   subset=["Roster"]),
+        .map(color_position, subset=["Position"])
+        .map(color_injury,   subset=["Injury Status"])
+        .map(color_roster,   subset=["Roster"]),
     width="stretch",
     hide_index=True,
 )

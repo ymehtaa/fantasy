@@ -336,7 +336,7 @@ with tab_board:
     team_table_height = len(leaderboard) * 35 + 39
 
     st.dataframe(
-        leaderboard.style.applymap(color_total, subset=["Total Moves"]),
+        leaderboard.style.map(color_total, subset=["Total Moves"]),
         width="stretch",
         hide_index=True,
         height=team_table_height,
