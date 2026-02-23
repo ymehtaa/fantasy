@@ -10,4 +10,4 @@ __pycache__/
 
 # Environment/Tool specific
 .claude/
-lsal.txt
+CLAUDE.md
