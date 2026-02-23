@@ -21,7 +21,7 @@ def fetch_nba_leagues(user_id: str, year: int) -> list[dict]:
         return []
 
 
-# ── Dashboard tiles when a league is already selected ──────────────────────────
+# ── State 1: league already selected → show dashboard tiles ───────────────────
 if st.session_state.get("league_id"):
     league_name = st.session_state.get("league_name", "My League")
     st.title(f"🏀 {league_name}")
@@ -57,17 +57,51 @@ if st.session_state.get("league_id"):
 
     st.markdown("---")
     if st.button("← Switch League", type="secondary"):
-        for key in ("league_id", "league_name", "last_scored_week"):
+        for key in ("league_id", "league_name", "last_scored_week", "pending_leagues", "pending_display_name"):
             st.session_state.pop(key, None)
         st.rerun()
 
+# ── State 2: multiple leagues found, waiting for user to pick one ──────────────
+elif st.session_state.get("pending_leagues"):
+    leagues      = st.session_state["pending_leagues"]
+    display_name = st.session_state.get("pending_display_name", "")
+
+    st.title("🏀 Select Your League")
+    st.success(f"Found {len(leagues)} NBA league(s) for **{display_name}**")
+
+    options = {
+        lg["league_id"]: f"{lg.get('name', 'Unnamed League')}  ({lg.get('season', '?')})"
+        for lg in leagues
+    }
+    selected_id = st.selectbox(
+        "Select a league",
+        options=list(options.keys()),
+        format_func=lambda lid: options[lid],
+    )
+
+    col1, col2, _ = st.columns([1, 1, 4])
+    with col1:
+        if st.button("Load League →", type="primary", use_container_width=True):
+            selected_lg = next(lg for lg in leagues if lg["league_id"] == selected_id)
+            st.session_state["league_id"]        = selected_lg["league_id"]
+            st.session_state["league_name"]      = selected_lg.get("name", "My League")
+            st.session_state["last_scored_week"] = (selected_lg.get("settings") or {}).get("last_scored_leg", 1)
+            st.session_state.pop("pending_leagues", None)
+            st.session_state.pop("pending_display_name", None)
+            st.rerun()
+    with col2:
+        if st.button("← Back", use_container_width=True):
+            st.session_state.pop("pending_leagues", None)
+            st.session_state.pop("pending_display_name", None)
+            st.rerun()
+
+# ── State 3: no league selected → show username form ──────────────────────────
 else:
-    # ── Username entry form ────────────────────────────────────────────────────
     st.title("🏀 Sleeper Fantasy NBA")
     st.markdown("Enter your Sleeper username to load your league.")
 
     with st.form("username_form"):
-        username = st.text_input("Sleeper Username", placeholder="e.g. sleeper123")
+        username  = st.text_input("Sleeper Username", placeholder="e.g. sleeper123")
         submitted = st.form_submit_button("Find My Leagues", type="primary")
 
     if submitted and username:
@@ -78,12 +112,12 @@ else:
             st.error(f"User '{username}' not found. Double-check the username and try again.")
             st.stop()
 
-        user_id = user["user_id"]
+        user_id      = user["user_id"]
         current_year = datetime.now().year
 
         with st.spinner("Fetching NBA leagues..."):
             leagues: list[dict] = []
-            seen: set[str] = set()
+            seen: set[str]      = set()
             for year in [current_year, current_year - 1]:
                 for lg in fetch_nba_leagues(user_id, year):
                     lid = lg.get("league_id")
@@ -100,24 +134,10 @@ else:
             st.session_state["league_id"]        = lg["league_id"]
             st.session_state["league_name"]      = lg.get("name", "My League")
             st.session_state["last_scored_week"] = (lg.get("settings") or {}).get("last_scored_leg", 1)
-            st.session_state["username"] = username
             st.rerun()
 
-        # Multiple leagues — show selector
-        st.success(f"Found {len(leagues)} NBA league(s) for **{user.get('display_name', username)}**")
-        options = {
-            lg["league_id"]: f"{lg.get('name', 'Unnamed League')}  ({lg.get('season', '?')})"
-            for lg in leagues
-        }
-        selected_id = st.selectbox(
-            "Select a league",
-            options=list(options.keys()),
-            format_func=lambda lid: options[lid],
-        )
-        if st.button("Load League →", type="primary"):
-            selected_lg = next(lg for lg in leagues if lg["league_id"] == selected_id)
-            st.session_state["league_id"]        = selected_lg["league_id"]
-            st.session_state["league_name"]      = selected_lg.get("name", "My League")
-            st.session_state["last_scored_week"] = (selected_lg.get("settings") or {}).get("last_scored_leg", 1)
-            st.session_state["username"] = username
-            st.rerun()
+        # Multiple leagues — store in state and rerun so the selector renders
+        # independently of the form submission
+        st.session_state["pending_leagues"]      = leagues
+        st.session_state["pending_display_name"] = user.get("display_name", username)
+        st.rerun()
