@@ -1,3 +1,6 @@
 sleeper
 pandas
 plotly
+nba-api
+jinja2>=3.1.5
+numpy<2

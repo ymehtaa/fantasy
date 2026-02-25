@@ -57,7 +57,7 @@ if st.session_state.get("league_id"):
 
     st.markdown("---")
     if st.button("← Switch League", type="secondary"):
-        for key in ("league_id", "league_name", "last_scored_week", "pending_leagues", "pending_display_name"):
+        for key in ("league_id", "league_name", "last_scored_week", "league_season", "pending_leagues", "pending_display_name"):
             st.session_state.pop(key, None)
         st.rerun()
 
@@ -86,6 +86,7 @@ elif st.session_state.get("pending_leagues"):
             st.session_state["league_id"]        = selected_lg["league_id"]
             st.session_state["league_name"]      = selected_lg.get("name", "My League")
             st.session_state["last_scored_week"] = (selected_lg.get("settings") or {}).get("last_scored_leg", 1)
+            st.session_state["league_season"]    = selected_lg.get("season", "2024")
             st.session_state.pop("pending_leagues", None)
             st.session_state.pop("pending_display_name", None)
             st.rerun()
@@ -134,6 +135,7 @@ else:
             st.session_state["league_id"]        = lg["league_id"]
             st.session_state["league_name"]      = lg.get("name", "My League")
             st.session_state["last_scored_week"] = (lg.get("settings") or {}).get("last_scored_leg", 1)
+            st.session_state["league_season"]    = lg.get("season", "2024")
             st.rerun()
 
         # Multiple leagues — store in state and rerun so the selector renders
